@@ -1,22 +1,22 @@
 payload:
   # 内容：OpenAi
   # 数量：17条
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,copilot.microsoft.com
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,ehwiki.org
   - DOMAIN-SUFFIX,ehgt.org
-  - DOMAIN-SUFFIX,exhentai.org
-  - DOMAIN-SUFFIX,hentaiverse.org
   - DOMAIN-SUFFIX,hath.network
+  - DOMAIN-KEYWORD,anthropic
+  - DOMAIN-KEYWORD,claude
+  - DOMAIN-KEYWORD,bing
+  - DOMAIN-KEYWORD,copilot
+  - DOMAIN-KEYWORD,colab
+  - DOMAIN-KEYWORD,hentai
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,gstatic
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,chat
   - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,events.statsigapi.net
   - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,identrust.com
@@ -25,6 +25,4 @@ payload:
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,sentry.io
-  - DOMAIN-SUFFIX,stripe.com  
-  - IP-CIDR,74.125.0.0/16,no-resolve
-  - IP-CIDR,173.194.0.0/16,no-resolve
+  - DOMAIN-SUFFIX,stripe.com
