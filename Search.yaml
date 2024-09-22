@@ -1,6 +1,7 @@
 payload:
   # 内容：OpenAi
   # 数量：17条
+  - PROCESS-NAME,com.openai.chatgpt
   - DOMAIN-SUFFIX,ehwiki.org
   - DOMAIN-SUFFIX,ehgt.org
   - DOMAIN-SUFFIX,hath.network
