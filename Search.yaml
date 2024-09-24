@@ -11,6 +11,7 @@ payload:
   - DOMAIN-KEYWORD,copilot
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,hentai
+  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,gstatic
