@@ -2,9 +2,10 @@ payload:
   # 内容：OpenAi
   # 数量：17条
   - PROCESS-NAME,com.poe.android
-  - PROCESS-NAME,com.openai.chatgpt
+  # - PROCESS-NAME,com.openai.chatgpt
   - PROCESS-NAME,com.android.vending
   - PROCESS-NAME,com.google.android.gms
+  - PROCESS-NAME,com.xjs.ehviewer
   - DOMAIN-SUFFIX,ehwiki.org
   - DOMAIN-SUFFIX,ehgt.org
   - DOMAIN-SUFFIX,hath.network
