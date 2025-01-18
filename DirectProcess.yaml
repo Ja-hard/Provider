@@ -30,7 +30,6 @@ payload:
   - PROCESS-NAME,baidunetdiskhost.exe
   - PROCESS-NAME,DownloadSDKServer.exe
   - PROCESS-NAME,Thunder.exe
-  - DOMAIN-SUFFIX,oaifree.com
   - DOMAIN-SUFFIX,dmhy.best
   - DOMAIN-SUFFIX,m-team.io
   - DOMAIN-SUFFIX,tracker.pterclub.com
