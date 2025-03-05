@@ -37,7 +37,7 @@ payload:
   - DOMAIN-SUFFIX,skyey.win
   - DOMAIN-SUFFIX,t.et8.org
   - DOMAIN-KEYWORD,deepseek
-  - DOMAIN-KEYWORD,cloudflare
+  # - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-KEYWORD,speedtest
   - DOMAIN-KEYWORD,thegeeks
   - DOMAIN-KEYWORD,bitspyder
