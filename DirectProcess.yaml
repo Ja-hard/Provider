@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,tracker.totheglory.im
   - DOMAIN-SUFFIX,skyey.win
   - DOMAIN-SUFFIX,t.et8.org
+  - DOMAIN-SUFFIX,qwen.ai
   - DOMAIN-KEYWORD,deepseek
   # - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-KEYWORD,speedtest
