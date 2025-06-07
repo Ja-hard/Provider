@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,api.bilibili.com
   - DOMAIN-SUFFIX,api.vc.bilibili.com
+  - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,hdslb.com
   # - PROCESS-NAME,com.bilibili.app.in
   # - PROCESS-NAME,com.xx.blbl
