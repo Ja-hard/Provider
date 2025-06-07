@@ -3,11 +3,11 @@ payload:
   - DOMAIN-SUFFIX,api.vc.bilibili.com
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,hdslb.com
-  # - PROCESS-NAME,com.bilibili.app.in
+  - PROCESS-NAME,com.bilibili.app.in
   # - PROCESS-NAME,com.xx.blbl
   # - DOMAIN-SUFFIX,akamaized.net
   # - DOMAIN-SUFFIX,acgvideo.com  
-  # - DOMAIN-KEYWORD,bili
+  - DOMAIN-KEYWORD,bili
   # - DOMAIN-KEYWORD,bstar
   # - IP-CIDR,45.43.32.234/32,no-resolve
   # - IP-CIDR,103.151.150.0/23,no-resolve
