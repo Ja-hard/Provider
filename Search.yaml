@@ -1,25 +1,52 @@
 payload:
-  # 内容：OpenAi
-  # 数量：17条
-  - PROCESS-NAME,com.poe.android
+  # process-match
   - PROCESS-NAME,com.openai.chatgpt
   - PROCESS-NAME,com.android.vending
   - PROCESS-NAME,com.google.android.gms
   - PROCESS-NAME,com.xjs.ehviewer
+  # ehentai
+  - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,ehwiki.org
   - DOMAIN-SUFFIX,ehgt.org
+  - DOMAIN-SUFFIX,exhentai.org
+  - DOMAIN-SUFFIX,hentaiverse.org
   - DOMAIN-SUFFIX,hath.network
-  - DOMAIN-KEYWORD,anthropic
-  - DOMAIN-KEYWORD,claude
-  - DOMAIN-KEYWORD,bing
-  - DOMAIN-KEYWORD,copilot
-  - DOMAIN-KEYWORD,colab
-  - DOMAIN-KEYWORD,hentai
+  # openai
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,chatgpt
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com
+  - DOMAIN-SUFFIX,events.statsigapi.net
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,sora.com
+  # copilot
   - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,copilot
+  - DOMAIN-KEYWORD,bing
+  # gemini
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,gstatic
-  - DOMAIN-KEYWORD,openai
-  - DOMAIN-KEYWORD,chat
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-KEYWORD,colab
+  - DOMAIN-KEYWORD,gemini
+  - DOMAIN-SUFFIX,1e100.net
+  - DOMAIN-SUFFIX,2mdn.net
+  - DOMAIN-SUFFIX,app-measurement.net
+  - DOMAIN-SUFFIX,g.co
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,goo.gl
+  - DOMAIN-SUFFIX,gvt0.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,gvt3.com
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-KEYWORD,developerprofiles
+  - DOMAIN-KEYWORD,generativelanguage
+  - DOMAIN-SUFFIX,deepmind.com
