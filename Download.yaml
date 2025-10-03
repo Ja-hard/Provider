@@ -1,2 +1,3 @@
-- DOMAIN-KEYWORD,jiuse
-- DOMAIN-KEYWORD,vdownload
+payload:
+  - DOMAIN-KEYWORD,jiuse
+  - DOMAIN-KEYWORD,vdownload
