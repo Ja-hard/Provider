@@ -50,3 +50,8 @@ payload:
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
   - DOMAIN-SUFFIX,deepmind.com
+  # claude
+  - DOMAIN-KEYWORD,anthropic
+  - DOMAIN-KEYWORD,claude
+  # anidb
+  - DOMAIN-SUFFIX,anidb.net
