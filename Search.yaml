@@ -1,5 +1,7 @@
 payload:
   # process-match
+  - PROCESS-NAME,antigravity_tools.exe
+  - PROCESS-NAME,com.google.android.apps.bard
   - PROCESS-NAME,com.openai.chatgpt
   - PROCESS-NAME,com.android.vending
   - PROCESS-NAME,com.google.android.gms
