@@ -38,10 +38,12 @@ payload:
   - DOMAIN-SUFFIX,skyey.win
   - DOMAIN-SUFFIX,t.et8.org
   # - DOMAIN-SUFFIX,qwen.ai
+  - DOMAIN-SUFFIX,x666.me
+  - DOMAIN-SUFFIX,h-e.top
+  - DOMAIN-SUFFIX,qaq.al
+  - DOMAIN-SUFFIX,hybgzs.com
   - DOMAIN-KEYWORD,deepseek
   - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-KEYWORD,speedtest
-  - DOMAIN-KEYWORD,thegeeks
-  - DOMAIN-KEYWORD,bitspyder
   
   
