@@ -40,7 +40,9 @@ payload:
   # - DOMAIN-SUFFIX,qwen.ai
   - DOMAIN-SUFFIX,x666.me
   - DOMAIN-SUFFIX,h-e.top
-  # - DOMAIN-SUFFIX,qaq.al
+  - DOMAIN-SUFFIX,api-test.us.ci
+  - DOMAIN-SUFFIX,qaq.al
+  - DOMAIN-SUFFIX,wzw.pp.ua
   - DOMAIN-SUFFIX,hybgzs.com
   - DOMAIN-KEYWORD,deepseek
   - DOMAIN-KEYWORD,cloudflare
