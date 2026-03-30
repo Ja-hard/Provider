@@ -41,7 +41,7 @@ payload:
   - DOMAIN-SUFFIX,qaq.al
   - DOMAIN-SUFFIX,ice.v.ua
   - DOMAIN-SUFFIX,sakurapy.de
-  - DOMAIN-SUFFIX,lucky-sub2api.zeabur.app
+  # - DOMAIN-SUFFIX,lucky-sub2api.zeabur.app
   - DOMAIN-SUFFIX,free.9e.nz
   - DOMAIN-SUFFIX,free.9977.me
   - DOMAIN-SUFFIX,jiuuij.de5.net
