@@ -37,22 +37,29 @@ payload:
   - DOMAIN-SUFFIX,tracker.totheglory.im
   - DOMAIN-SUFFIX,skyey.win
   - DOMAIN-SUFFIX,t.et8.org
-  # - DOMAIN-SUFFIX,qwen.ai
-  - DOMAIN-SUFFIX,ice.v.ua
-  - DOMAIN-SUFFIX,9977.me
-  # - DOMAIN-SUFFIX,supercodex.space
+  - DOMAIN-SUFFIX,bigmodel.cn
   - DOMAIN-SUFFIX,qaq.al
+  - DOMAIN-SUFFIX,ice.v.ua
+  - DOMAIN-SUFFIX,sakurapy.de
+  - DOMAIN-SUFFIX,lucky-sub2api.zeabur.app
+  - DOMAIN-SUFFIX,free.9e.nz
+  - DOMAIN-SUFFIX,free.9977.me
   - DOMAIN-SUFFIX,jiuuij.de5.net
+  - DOMAIN-SUFFIX,windhub.cc
+  - DOMAIN-SUFFIX,daiju.live
+  - DOMAIN-SUFFIX,nih.cc
   - DOMAIN-SUFFIX,wzw.pp.ua
   - DOMAIN-SUFFIX,h-e.top
   - DOMAIN-SUFFIX,42w.shop
-  - DOMAIN-SUFFIX,zenscaleai.com
+  # - DOMAIN-SUFFIX,supercodex.space
+  # - DOMAIN-SUFFIX,zenscaleai.com
   # - DOMAIN-SUFFIX,api-test.us.ci
   # - DOMAIN-SUFFIX,xhyun.eu.cc
   # - DOMAIN-SUFFIX,sakuradori.dpdns.org
   # - DOMAIN-SUFFIX,hybgzs.com
   # - DOMAIN-SUFFIX,x666.me
-  - DOMAIN-KEYWORD,deepseek
+  - DOMAIN-KEYWORD,qwen
+  # - DOMAIN-KEYWORD,deepseek
   - DOMAIN-KEYWORD,xfltd
   - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-KEYWORD,speedtest
