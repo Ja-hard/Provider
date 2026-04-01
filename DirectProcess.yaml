@@ -58,7 +58,7 @@ payload:
   # - DOMAIN-SUFFIX,api-test.us.ci
   # - DOMAIN-SUFFIX,xhyun.eu.cc
   # - DOMAIN-SUFFIX,sakuradori.dpdns.org
-  # - DOMAIN-SUFFIX,hybgzs.com
+  - DOMAIN-SUFFIX,hybgzs.com
   # - DOMAIN-SUFFIX,x666.me
   - DOMAIN-KEYWORD,qwen
   # - DOMAIN-KEYWORD,deepseek
