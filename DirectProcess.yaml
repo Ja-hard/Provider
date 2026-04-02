@@ -3,6 +3,8 @@ payload:
   - PROCESS-NAME,uTorrent.exe
   - PROCESS-NAME,com.bilibili.app.in
   - DOMAIN-KEYWORD,bili
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,acgvideo.com
   # - PROCESS-NAME,com.tencent.mobileqq
   # - PROCESS-NAME,com.tencent.mm
   # - PROCESS-NAME,com.eg.android.AlipayGphone
