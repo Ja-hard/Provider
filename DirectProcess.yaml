@@ -45,7 +45,7 @@ payload:
   - DOMAIN-KEYWORD,qwen
   # - DOMAIN-KEYWORD,deepseek
   - DOMAIN-KEYWORD,xfltd
-  - DOMAIN-KEYWORD,cloudflare
+  # - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-KEYWORD,speedtest
   # IP 查询服务
   - DOMAIN-SUFFIX,speed.neu6.edu.cn
