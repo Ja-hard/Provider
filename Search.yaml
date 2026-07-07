@@ -27,7 +27,6 @@ payload:
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN-SUFFIX,sora.com
   # copilot
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,copilot
