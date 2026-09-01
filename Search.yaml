@@ -28,8 +28,8 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
   # copilot
-  - DOMAIN-KEYWORD,github
-  - DOMAIN-KEYWORD,copilot
+  # - DOMAIN-KEYWORD,github
+  # - DOMAIN-KEYWORD,copilot
   - DOMAIN-KEYWORD,bing
   # gemini
   - DOMAIN-KEYWORD,gmail
