@@ -40,7 +40,6 @@ payload:
   - DOMAIN-SUFFIX,skyey.win
   - DOMAIN-SUFFIX,t.et8.org
   - DOMAIN-SUFFIX,bigmodel.cn
-  - DOMAIN-SUFFIX,cn-shanghai.fcapp.run
   - DOMAIN-KEYWORD,qwen
   # - DOMAIN-KEYWORD,deepseek
   - DOMAIN-KEYWORD,xfltd
